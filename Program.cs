@@ -17,6 +17,9 @@ namespace GitHubSetUp
             Console.WriteLine("STEP 2:");
             Console.WriteLine("right-click solution[Add Solution Control]" +
                 " -> Change tab to Team Explorer -> SYNC");
+
+            Console.WriteLine("Done");
+
             Console.ReadLine();
         }
     }
